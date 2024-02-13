@@ -12,3 +12,9 @@
 <li>Forget Password: Offers a link to recover a forgotten password.</li>
 </ul>
 </section>
+<section>
+<h2>How to Use</h2>
+<h3>Visit the Website</h3>
+<p>Access the Facebook Login Page Website in your web browser through the following deployment link:
+<pre><code>https://aseem2004.github.io/Facebook-LoginPage-Clone/</code></pre></p>
+</section>
