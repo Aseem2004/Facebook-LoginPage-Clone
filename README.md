@@ -46,3 +46,15 @@ https://github.com/Aseem2004/Facebook-LoginPage-Clone/assets/95762431/93f0e7c2-0
 <h2>Contributing</h2>
 <p>Contributions are welcome! Feel free to fork this repository and submit a pull request with your changes.</p>
 </section>
+
+<section>
+<h2>Credits</h2>
+<ul>
+<li>Facebook for the original design.</li>
+<li>DevTown's Youtube channel.</li>
+</ul>
+</section>
+
+<footer>
+Thank You for visiting!
+</footer>
