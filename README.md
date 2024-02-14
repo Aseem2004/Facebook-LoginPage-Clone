@@ -38,8 +38,11 @@ https://github.com/Aseem2004/Facebook-LoginPage-Clone/assets/95762431/93f0e7c2-0
 <pre><code>https://aseem2004.github.io/Facebook-LoginPage-Clone/</code></pre></p>
 </section>
 
-
-
-
-
-  
+<section>
+<h2>Disclaimer</h2>
+<p>This project is a static clone and does not have any functionality beyond displaying a replica of the Facebook login page. No data is collected or stored through this clone.</p>
+</section>
+<section>
+<h2>Contributing</h2>
+<p>Contributions are welcome! Feel free to fork this repository and submit a pull request with your changes.</p>
+</section>
