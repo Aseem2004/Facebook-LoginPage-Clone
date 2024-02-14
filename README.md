@@ -22,6 +22,15 @@ https://github.com/Aseem2004/Facebook-LoginPage-Clone/assets/95762431/93f0e7c2-0
 
 
 </section>
+
+<section>
+<h2>Technologies Used</h2>
+<ul>
+<li><strong>HTML:</strong> Provides the structure of the website.</li>
+<li><strong>CSS:</strong> Styles the website for a visually appealing and aesthetic look to make it look real.</li>
+</ul>
+</section>
+
 <section>
 <h2>How to Use</h2>
 <h3>Visit the Website</h3>
